@@ -1,0 +1,24 @@
+{
+  "name": "malabar-1",
+  "version": "1.0.0",
+  "description": "Restaurant UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alborg98/Malabar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alborg98/Malabar/issues"
+  },
+  "homepage": "https://github.com/alborg98/Malabar#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
